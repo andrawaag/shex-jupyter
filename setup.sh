@@ -1,3 +1,3 @@
 npm install shex
 npm install ijavascript
-ijs
+ijs hello-shex.ipynb
